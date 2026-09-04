@@ -1,4 +1,4 @@
-# Abdulmumin Abubakar Sideeq
+![top header](https://capsule-render.vercel.app/api?type=waving&color=gradient&custumColorList=6,11,20&height=180&section=header&text=Abdulmumin%20Abubakar%20Sideeq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 **Health Educator → Security Engineer in training | Islamic scholar-in-progress | Farmer**
 
@@ -54,3 +54,5 @@ Poultry and livestock operation — the practical, hands-on counterpart to the s
 ---
 
 *"Zero to Hero" — in more ways than one.*
+
+![red]()
