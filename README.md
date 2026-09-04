@@ -55,4 +55,4 @@ Poultry and livestock operation — the practical, hands-on counterpart to the s
 
 *"Zero to Hero" — in more ways than one.*
 
-![red]()
+[top footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&custumColorList=6,11,20&height=180&section=footer)
