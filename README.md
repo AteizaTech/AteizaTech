@@ -1,9 +1,10 @@
 ![top header](https://capsule-render.vercel.app/api?type=waving&color=gradient&custumColorList=6,11,20&height=180&section=header&text=Abdulmumin%20Abubakar%20Sideeq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-**Health Educator → Security Engineer in training | Islamic scholar-in-progress | Farmer**
+**Health Educator → Security Engineer in training | Farmer**
 
 Building a second career in cybersecurity from the ground up — one lab, one CTF-style exercise, one autograder submission at a time — while keeping a parallel life rooted in Islamic scholarship and running a livestock operation. This README is a snapshot of where I've been, what I'm building, and where I'm headed.
 
+https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=AteizaTech;AteizaTech,+CyberLab;AteizaTech,+The+Hobbyist%22
 ---
 
 ## 🛡️ Currently Building: Cybersecurity Career
@@ -26,13 +27,6 @@ Using Python and Linux not just to learn concepts, but to automate repetitive wo
 - **Visitor Counter** — a small deployed web utility.
 - **Ateiza Mega Farm** — a self-contained HTML/CSS/JS site for a poultry and livestock operation.
 
-## 📖 Islamic Scholarship
-
-A long-standing, serious interest that runs alongside the technical work:
-
-- **Fiqh** across all four Sunni madhabs — recent deep dives include women's prayer rulings, women's financial autonomy in Islamic law, prohibited degrees of marriage (محرمات), inheritance law (فقه المواريث), and the ruling on document alteration for scholarship eligibility — always source-grounded, with scholar citations, hadith, and Qur'anic evidence.
-- **Classical Arabic** — pronoun taxonomy (ضمائر), grammatical analysis (إعراب), and vocabulary from the sīrah (سيرة).
-- **Postgraduate ambitions** — actively researching fully funded postgraduate scholarships in Islamic studies with no age restrictions. Chevening and the Swedish Institute have come out as the strongest routes, with a funded master's-then-PhD path identified as the most realistic sequence for a Health Education graduate moving into this field.
 
 ## 🐔 Ateiza Mega Farm
 
