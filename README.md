@@ -4,7 +4,8 @@
 
 Building a second career in cybersecurity from the ground up — one lab, one CTF-style exercise, one autograder submission at a time — while keeping a parallel life rooted in Islamic scholarship and running a livestock operation. This README is a snapshot of where I've been, what I'm building, and where I'm headed.
 
-https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=AteizaTech;AteizaTech,+CyberLab;AteizaTech,+The+Hobbyist%22
+<div align="center">
+  <img id="time-based-greeting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=IamAdedo;IamAdedo,+The+Lazy+Riva+HNTR;IamAdedo,+The+Hobbyist" alt="Lazy Hunter Title">
 ---
 
 ## 🛡️ Currently Building: Cybersecurity Career
