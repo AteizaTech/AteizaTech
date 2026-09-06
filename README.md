@@ -1,6 +1,6 @@
 ![top header](https://capsule-render.vercel.app/api?type=waving&color=gradient&custumColorList=6,11,20&height=180&section=header&text=Abdulmumin%20Abubakar%20Sideeq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-**Health Educator → Security Engineer in training | Farmer**
+**Ai Cybersecurity Automation | VibeCoding**
 
 Building a second career in cybersecurity from the ground up — one lab, one CTF-style exercise, one autograder submission at a time — while keeping a parallel life rooted in Islamic scholarship and running a livestock operation. This README is a snapshot of where I've been, what I'm building, and where I'm headed.
 
