@@ -1,6 +1,6 @@
 ![top header](https://capsule-render.vercel.app/api?type=waving&color=gradient&custumColorList=6,11,20&height=180&section=header&text=Abdulmumin%20Abubakar%20Sideeq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-**Ai Cybersecurity Automation | VibeCoding**
+**Ai Cybersecurity Automation | Ai Engineering**
 
 Building a second career in cybersecurity from the ground up — one lab, one CTF-style exercise, one autograder submission at a time — while keeping a parallel life rooted in Islamic scholarship and running a livestock operation. This README is a snapshot of where I've been, what I'm building, and where I'm headed.
 
@@ -10,7 +10,7 @@ Building a second career in cybersecurity from the ground up — one lab, one CT
 
 ## 🛡️ Currently Building: Cybersecurity Career
 
-Coming from a Health Education background, I'm retraining as a **Security Engineer** through Talent Nation's "Zero to Hero" program.
+Coming from a Health Education background, I'm retraining as a **Security Engineer** through Talent Nation's program.
 
 - **Tools:** Nmap, Burp Suite, Metasploit, Hashcat, dirb
 - **Languages:** Python, learning Linux system administration in depth
